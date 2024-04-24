@@ -1,0 +1,14 @@
+{
+  "name": "journalia-js-backend",
+  "version": "1.0.0",
+  "description": "javascript backend for the journalia sample app",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "sebastian jensen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
